@@ -1,0 +1,14 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-jwt-extended
+PyMySQL
+cryptography
+werkzeug
+keras
+jax
+jaxlib
+pillow
+numpy
+scipy
+google-generativeai

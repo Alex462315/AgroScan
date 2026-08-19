@@ -1,0 +1,2555 @@
+﻿{
+  "Apple___Apple_scab": {
+    "is_healthy": false,
+    "description": "Apple scab is caused by the fungus Venturia inaequalis. It produces dark, olive-green to black lesions on leaves, fruit, and sometimes twigs. Severe infections cause premature leaf drop and unmarketable fruit.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Neem Oil Spray",
+          "instructions": "Mix 5 ml neem oil with 1 litre of water and a few drops of liquid soap as emulsifier. Spray thoroughly on all leaf surfaces.",
+          "frequency": "Every 7-10 days during wet weather"
+        },
+        {
+          "name": "Sulfur-Based Fungicide",
+          "instructions": "Apply wettable sulfur at 3 g per litre of water. Do not apply when temperature exceeds 30°C.",
+          "frequency": "Every 10-14 days preventively"
+        },
+        {
+          "name": "Bordeaux Mixture",
+          "instructions": "Prepare a 1% Bordeaux mixture (10 g copper sulfate + 10 g lime per litre). Spray before bud break and again at petal fall.",
+          "frequency": "2-3 applications per season"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45", "Indofil M-45"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Myclobutanil",
+          "brand_names": ["Systhane", "Rally"],
+          "dosage": "0.5 ml per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Captan",
+          "brand_names": ["Captaf", "Merpan"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Do not apply within 14 days of harvest. Rotate fungicide classes to prevent resistance."
+    },
+    "prevention": [
+      "Remove and destroy fallen infected leaves in autumn",
+      "Prune trees to improve air circulation within the canopy",
+      "Plant scab-resistant apple varieties when possible",
+      "Avoid overhead irrigation to keep foliage dry",
+      "Apply dormant-season copper spray before bud break"
+    ],
+    "spread_checklist": [
+      "Rake and remove all fallen leaves around infected trees",
+      "Prune out heavily scabbed twigs and branches",
+      "Disinfect pruning tools with 70% isopropyl alcohol between cuts",
+      "Avoid working with trees when foliage is wet",
+      "Apply protective fungicide to nearby healthy trees",
+      "Monitor adjacent trees daily for 2 weeks for new lesions",
+      "Bag and dispose of infected fruit - do not compost"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove all visibly infected leaves and fruit from the tree",
+          "Apply emergency fungicide spray (captan or mancozeb)"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Begin scheduled fungicide spray program",
+          "Improve air circulation by selective pruning",
+          "Clean up all fallen debris around the tree base"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue fungicide applications on schedule",
+          "Monitor weather - increase spray frequency during rain",
+          "Apply foliar fertilizer to strengthen tree immunity"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Plan for resistant variety grafting or replacement",
+          "Apply urea spray to fallen leaves to speed decomposition",
+          "Schedule dormant copper spray for next spring"
+        ]
+      }
+    ]
+  },
+
+  "Apple___Black_rot": {
+    "is_healthy": false,
+    "description": "Black rot is caused by the fungus Botryosphaeria obtusa. It produces brown, circular lesions with concentric rings ('frogeye' spots) on leaves, and causes dark, rotting cankers on fruit and branches.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Fungicide Spray",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water. Spray at bud break and repeat at petal fall.",
+          "frequency": "Every 10-14 days during growing season"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Mix 5 ml neem oil per litre of water with a surfactant. Spray on all foliage and fruit surfaces.",
+          "frequency": "Every 7-10 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Captan",
+          "brand_names": ["Captaf", "Merpan"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Thiophanate-methyl",
+          "brand_names": ["Topsin-M", "Cercobin"],
+          "dosage": "1 g per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Do not apply captan within 14 days of harvest. Avoid mixing captan with oil-based sprays."
+    },
+    "prevention": [
+      "Remove mummified fruit from trees and ground promptly",
+      "Prune out dead wood and cankers during dormant season",
+      "Maintain proper tree spacing for air circulation",
+      "Remove wild or abandoned apple trees nearby that harbor disease",
+      "Apply dormant-season fungicide before bud break"
+    ],
+    "spread_checklist": [
+      "Remove and destroy all mummified and rotting fruit immediately",
+      "Prune cankers at least 15 cm below visible infection margin",
+      "Disinfect all pruning tools between cuts",
+      "Apply wound sealant to large pruning cuts",
+      "Bag and dispose of all infected material - do not compost",
+      "Spray surrounding healthy trees with protective fungicide",
+      "Monitor weekly for new lesion development"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove all visibly infected fruit and leaves",
+          "Prune out any visible cankers on branches"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Apply captan or copper fungicide spray",
+          "Clean up all fallen debris from around tree base"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue fungicide spray schedule",
+          "Monitor for new frogeye leaf spots or fruit rot",
+          "Ensure good sanitation practices in orchard"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Remove all remaining mummies and dead wood in winter",
+          "Plan dormant-season copper spray",
+          "Consider resistant varieties for new plantings"
+        ]
+      }
+    ]
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "is_healthy": false,
+    "description": "Cedar apple rust is caused by the fungus Gymnosporangium juniperi-virginianae. It requires both apple and cedar/juniper trees to complete its life cycle. It produces bright orange-yellow spots on apple leaves and fruit.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Sulfur Spray",
+          "instructions": "Apply wettable sulfur at 3 g per litre of water starting at pink bud stage.",
+          "frequency": "Every 7-10 days through petal fall"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Mix 5 ml per litre of water. Apply as a preventive during early spring.",
+          "frequency": "Every 10-14 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Myclobutanil",
+          "brand_names": ["Systhane", "Rally"],
+          "dosage": "0.5 ml per litre of water",
+          "frequency": "Every 14 days from pink bud to 2 weeks after petal fall",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Propiconazole",
+          "brand_names": ["Tilt", "Banner MAXX"],
+          "dosage": "1 ml per litre of water",
+          "frequency": "Every 14-21 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Most effective when applied preventively. Fungicides do not cure existing infections."
+    },
+    "prevention": [
+      "Remove cedar and juniper trees within 100 metres of apple orchard if possible",
+      "Remove galls from cedar trees during winter before they produce spores",
+      "Plant rust-resistant apple varieties",
+      "Begin fungicide program early (at green tip to pink bud stage)",
+      "Improve air circulation through proper pruning"
+    ],
+    "spread_checklist": [
+      "Remove heavily infected leaves from apple trees",
+      "Scout for and remove cedar galls from nearby juniper/cedar trees",
+      "Apply protective fungicide to remaining healthy foliage",
+      "Monitor weather - spores spread during warm, wet spring weather",
+      "Inspect nearby apple trees for early yellow-orange spots",
+      "Avoid overhead watering during spore release period"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove severely infected leaves to reduce inoculum",
+          "Apply systemic fungicide (myclobutanil) immediately"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Scout for and remove cedar galls from nearby trees",
+          "Continue protective fungicide applications"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Maintain fungicide schedule through wet weather periods",
+          "Monitor for new leaf infections weekly"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Plan removal of cedar/juniper trees near orchard",
+          "Select resistant apple varieties for future planting",
+          "Map rust incidence for next season's management plan"
+        ]
+      }
+    ]
+  },
+
+  "Apple___healthy": {
+    "is_healthy": true,
+    "description": "Your apple leaf appears healthy with no visible signs of disease. The leaf shows normal coloration and structure consistent with a vigorous apple tree.",
+    "care_tips": [
+      "Continue regular watering - deep water weekly during dry periods",
+      "Apply balanced fertilizer (10-10-10) in early spring before bud break",
+      "Prune during dormant season to maintain open canopy and air circulation",
+      "Monitor regularly for early signs of scab, rust, or black rot",
+      "Apply preventive dormant-season copper spray before bud break",
+      "Mulch around tree base to retain moisture and suppress weeds"
+    ]
+  },
+
+  "Blueberry___healthy": {
+    "is_healthy": true,
+    "description": "Your blueberry leaf looks healthy with no signs of disease or nutrient deficiency. The deep green color indicates good plant vigor.",
+    "care_tips": [
+      "Maintain soil pH between 4.5-5.5 for optimal nutrient uptake",
+      "Apply acidifying fertilizer (ammonium sulfate) in early spring",
+      "Mulch heavily with pine needles or wood chips (10-15 cm depth)",
+      "Provide consistent moisture - blueberries are shallow-rooted",
+      "Prune old, unproductive canes annually after harvest",
+      "Net plants to protect fruit from birds during ripening"
+    ]
+  },
+
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "is_healthy": false,
+    "description": "Powdery mildew on cherry is caused by the fungus Podosphaera clandestina. It produces white, powdery fungal growth on leaves, shoots, and sometimes fruit, causing leaf curling and stunted growth.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Potassium Bicarbonate Spray",
+          "instructions": "Dissolve 3 g potassium bicarbonate per litre of water. Add a few drops of liquid soap. Spray all leaf surfaces.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Sulfur Spray",
+          "instructions": "Apply wettable sulfur at 3 g per litre of water. Avoid application above 30°C.",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Milk Spray",
+          "instructions": "Mix 1 part whole milk with 9 parts water. The proteins in milk combat the fungus.",
+          "frequency": "Every 7 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Myclobutanil",
+          "brand_names": ["Systhane", "Rally"],
+          "dosage": "0.5 ml per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Trifloxystrobin",
+          "brand_names": ["Flint", "Nativo"],
+          "dosage": "0.3 g per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Alternate between different fungicide classes to prevent resistance. Do not apply within 7 days of harvest."
+    },
+    "prevention": [
+      "Prune to improve air circulation and sunlight penetration",
+      "Avoid excessive nitrogen fertilization which promotes succulent growth",
+      "Water at the base of trees - avoid wetting foliage",
+      "Remove and destroy heavily infected shoots in early spring",
+      "Select resistant varieties when planting new trees"
+    ],
+    "spread_checklist": [
+      "Remove and destroy the most severely infected shoots and leaves",
+      "Apply fungicide to all trees in the area, not just the infected one",
+      "Reduce nitrogen fertilizer applications to slow succulent growth",
+      "Improve air circulation by thinning interior branches",
+      "Avoid overhead irrigation immediately",
+      "Monitor neighbouring cherry trees weekly for white powdery growth"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove heavily mildewed shoots and leaf clusters",
+          "Apply sulfur or potassium bicarbonate spray"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Begin systemic fungicide program if infection is widespread",
+          "Thin canopy to improve air flow"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue spray schedule, alternating fungicide types",
+          "Monitor new growth for re-infection"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Reduce nitrogen rates for next season",
+          "Plan dormant pruning to open canopy structure",
+          "Consider resistant rootstocks or varieties"
+        ]
+      }
+    ]
+  },
+
+  "Cherry_(including_sour)___healthy": {
+    "is_healthy": true,
+    "description": "Your cherry leaf appears healthy with good color and no visible disease symptoms. The tree seems to be in good condition.",
+    "care_tips": [
+      "Water deeply once a week during dry spells - cherries need consistent moisture",
+      "Apply balanced fertilizer in early spring before bloom",
+      "Prune after harvest to allow cuts to heal before winter",
+      "Watch for early signs of powdery mildew or bacterial canker",
+      "Protect fruit from birds with netting during ripening",
+      "Mulch around the base to maintain soil moisture"
+    ]
+  },
+
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "is_healthy": false,
+    "description": "Gray leaf spot is caused by the fungus Cercospora zeae-maydis. It produces rectangular, grayish-tan lesions that follow leaf veins. Severe infections can cause significant yield loss due to premature leaf death.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Crop Residue Management",
+          "instructions": "Till or incorporate corn residue after harvest to reduce overwintering fungal inoculum. This is the most effective organic control.",
+          "frequency": "After each corn crop"
+        },
+        {
+          "name": "Trichoderma-based Biocontrol",
+          "instructions": "Apply Trichoderma viride at 5 g per litre of water as a foliar spray.",
+          "frequency": "Every 14 days starting at V6 growth stage"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Azoxystrobin",
+          "brand_names": ["Amistar", "Quadris"],
+          "dosage": "1 ml per litre of water",
+          "frequency": "One to two applications at VT to R1 stage",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Propiconazole",
+          "brand_names": ["Tilt", "Bumper"],
+          "dosage": "1 ml per litre of water",
+          "frequency": "At disease onset, repeat after 14 days if needed",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Apply fungicides at or before tasseling (VT-R1) for best results. Later applications have limited efficacy."
+    },
+    "prevention": [
+      "Rotate with non-host crops (soybeans, wheat) for at least 1 year",
+      "Plant resistant or tolerant corn hybrids",
+      "Till corn residue to reduce inoculum carryover",
+      "Avoid planting corn-on-corn in fields with history of gray leaf spot",
+      "Ensure proper plant spacing to reduce humidity in the canopy"
+    ],
+    "spread_checklist": [
+      "Scout remaining corn fields for early symptoms",
+      "Avoid moving equipment from infected to clean fields without cleaning",
+      "Plan crop rotation for the affected field next season",
+      "Consider fungicide application if plants are still before R3 stage",
+      "Record affected field and hybrid for future planning",
+      "Monitor weather - warm, humid conditions accelerate spread"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Assess disease severity across the field",
+          "Apply foliar fungicide if corn is between VT and R2 stage"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Continue scouting other fields for early detection",
+          "Document severity for yield loss estimation"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Re-apply fungicide if disease continues to spread before R3",
+          "Adjust harvest timing if severe yield loss is expected"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Plan crop rotation away from corn for next season",
+          "Select resistant hybrids for future corn plantings",
+          "Till or shred corn residue to reduce overwintering inoculum"
+        ]
+      }
+    ]
+  },
+
+  "Corn_(maize)___Common_rust_": {
+    "is_healthy": false,
+    "description": "Common rust is caused by the fungus Puccinia sorghi. It produces small, circular to elongate, reddish-brown pustules on both leaf surfaces. Severe infections can reduce photosynthesis and grain fill.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Resistant Hybrid Selection",
+          "instructions": "The most effective organic strategy is planting rust-resistant corn hybrids. Consult your seed supplier for resistant options.",
+          "frequency": "At planting"
+        },
+        {
+          "name": "Neem Oil Spray",
+          "instructions": "Apply 5 ml neem oil per litre of water with a surfactant.",
+          "frequency": "Every 7-10 days at first sign of pustules"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Azoxystrobin + Propiconazole",
+          "brand_names": ["Amistar Top", "Quilt Xcel"],
+          "dosage": "1 ml per litre of water",
+          "frequency": "One application at disease onset (VT-R1)",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45", "Indofil M-45"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Fungicide application is economically justified only in severe cases or high-value seed corn production."
+    },
+    "prevention": [
+      "Plant resistant corn hybrids - this is the primary defense",
+      "Plant early to avoid peak rust spore season",
+      "Scout fields regularly starting at V8 stage",
+      "Maintain balanced fertility - excess nitrogen increases susceptibility",
+      "Remove volunteer corn plants that can harbor rust"
+    ],
+    "spread_checklist": [
+      "Scout all corn fields in the area for early rust pustules",
+      "Assess whether fungicide application is economically justified",
+      "Record the hybrid and field location for future planning",
+      "Monitor weather - cool nights and moderate days favour rust",
+      "Plan for resistant hybrids in next season's planting",
+      "Check forecasts from regional rust monitoring networks"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Confirm diagnosis by examining pustule color and distribution",
+          "Assess severity - count pustules per leaf on lower, middle, and upper canopy"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Apply fungicide if infection is moderate-to-severe before R3",
+          "Scout adjacent fields for spread"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor disease progression on upper leaves",
+          "Consider second fungicide application only if disease intensifies"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Select resistant hybrids for next season",
+          "Destroy crop residue to reduce volunteer corn",
+          "Review regional rust advisory bulletins"
+        ]
+      }
+    ]
+  },
+
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "is_healthy": false,
+    "description": "Northern leaf blight is caused by the fungus Exserohilum turcicum. It produces large, cigar-shaped, grayish-green lesions (3-15 cm long) on corn leaves. Severe infections can reduce yield by 30-50%.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Crop Residue Decomposition",
+          "instructions": "Incorporate corn residue into soil after harvest. The fungus survives on residue, so decomposition reduces inoculum.",
+          "frequency": "After each corn harvest"
+        },
+        {
+          "name": "Trichoderma Application",
+          "instructions": "Apply Trichoderma harzianum formulation at 5 g per litre as foliar spray.",
+          "frequency": "Every 14 days from V8 stage"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Azoxystrobin",
+          "brand_names": ["Amistar", "Quadris"],
+          "dosage": "1 ml per litre of water",
+          "frequency": "At VT to R1 stage; repeat after 14 days if needed",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Pyraclostrobin + Metconazole",
+          "brand_names": ["Headline AMP"],
+          "dosage": "Per label rate (varies by formulation)",
+          "frequency": "Single application at VT-R1",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Economic returns from fungicide are best when applied at or just before tasseling. Applications after R3 stage rarely justified."
+    },
+    "prevention": [
+      "Rotate corn with non-host crops for at least 1 year",
+      "Select hybrids with NLB resistance ratings of 7 or above",
+      "Manage crop residue through tillage or decomposition",
+      "Avoid continuous corn in fields with NLB history",
+      "Maintain adequate potassium levels for plant health"
+    ],
+    "spread_checklist": [
+      "Scout all corn fields within the farm for cigar-shaped lesions",
+      "Assess disease severity on ear leaf and two leaves above/below",
+      "Consider fungicide if less than 50% of ear leaf is affected before R3",
+      "Clean equipment when moving between affected and clean fields",
+      "Document hybrid performance and disease severity for records",
+      "Check regional crop disease alerts for NLB risk levels"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Confirm NLB diagnosis (cigar-shaped gray-green lesions)",
+          "Apply strobilurin or triazole fungicide if before R3"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Monitor disease progression on upper canopy leaves",
+          "Scout neighbouring corn fields"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Evaluate need for second fungicide application",
+          "Estimate potential yield loss for insurance or marketing decisions"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Plan 1-2 year crop rotation away from corn",
+          "Choose NLB-resistant hybrids for next planting",
+          "Manage crop residue through tillage or shredding"
+        ]
+      }
+    ]
+  },
+
+  "Corn_(maize)___healthy": {
+    "is_healthy": true,
+    "description": "Your corn leaf appears healthy with no visible disease symptoms. The uniform green color and intact leaf structure indicate good plant health.",
+    "care_tips": [
+      "Ensure consistent watering - corn needs 25-30 mm water per week during tasseling",
+      "Side-dress with nitrogen fertilizer at V6-V8 stage for optimal growth",
+      "Scout regularly for early signs of rust, blight, or gray leaf spot",
+      "Maintain proper plant population for your hybrid and soil type",
+      "Monitor for insect pests like corn borers and armyworms",
+      "Plan crop rotation with soybeans or wheat for next season"
+    ]
+  },
+
+  "Grape___Black_rot": {
+    "is_healthy": false,
+    "description": "Black rot is caused by the fungus Guignardia bidwellii. It produces circular, tan lesions with dark borders on leaves, and causes fruit to shrivel into hard, black mummies. It is one of the most serious grape diseases.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper-Based Fungicide",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water. Start at bud break.",
+          "frequency": "Every 10-14 days through fruit set"
+        },
+        {
+          "name": "Sulfur Spray",
+          "instructions": "Apply wettable sulfur at 3 g per litre. Not effective alone but useful in rotation.",
+          "frequency": "Alternate with copper every 7-10 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Myclobutanil",
+          "brand_names": ["Systhane", "Rally"],
+          "dosage": "0.5 ml per litre of water",
+          "frequency": "Every 14 days from pre-bloom to veraison",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45", "Penncozeb"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Most critical spray window is from immediate pre-bloom through 4 weeks after bloom. Do not apply mancozeb within 66 days of harvest."
+    },
+    "prevention": [
+      "Remove and destroy all mummified fruit from vines and ground",
+      "Prune vines to improve air circulation and sunlight penetration",
+      "Train vines to an open canopy system",
+      "Begin fungicide applications at bud break - don't wait for symptoms",
+      "Manage weeds and vegetation under vines to reduce humidity"
+    ],
+    "spread_checklist": [
+      "Remove all mummified berries from vines and ground immediately",
+      "Prune out infected shoot tips and tendrils",
+      "Apply fungicide to all vines in the vineyard block",
+      "Improve canopy airflow by leaf-pulling around fruit zone",
+      "Clean and disinfect pruning tools between vines",
+      "Monitor weekly for new leaf lesions and fruit symptoms"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove all visible mummified fruit and infected leaves",
+          "Apply systemic fungicide immediately"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Open up vine canopy by removing excess shoots and leaves",
+          "Begin strict fungicide spray schedule"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue fungicide applications on schedule",
+          "Scout weekly for new infections on leaves and fruit"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Thoroughly remove all mummies during winter pruning",
+          "Cultivate under-vine area to bury remaining debris",
+          "Plan early-season fungicide program for next year"
+        ]
+      }
+    ]
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "is_healthy": false,
+    "description": "Esca (Black Measles) is a complex trunk disease caused by multiple fungi including Phaeomoniella chlamydospora and Phaeoacremonium minimum. It causes tiger-stripe patterns on leaves and dark spotting on berries.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Trunk Wound Protection",
+          "instructions": "Paint pruning wounds with wound sealant or Trichoderma-based paste immediately after pruning.",
+          "frequency": "After every pruning cut"
+        },
+        {
+          "name": "Trichoderma-Based Biocontrol",
+          "instructions": "Apply Trichoderma harzianum products to pruning wounds and as a soil drench at 5 g per litre.",
+          "frequency": "At pruning and twice during growing season"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Sodium Arsenite",
+          "brand_names": ["No longer registered in most countries"],
+          "dosage": "Historical use only - now banned",
+          "frequency": "N/A",
+          "method": "N/A"
+        },
+        {
+          "name": "Fosetyl-Aluminium",
+          "brand_names": ["Aliette"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "3-4 applications per season",
+          "method": "Foliar spray or trunk injection"
+        }
+      ],
+      "warning": "There is no fully effective chemical cure for Esca. Management focuses on prevention and slowing disease progress. Trunk surgery can extend vine life."
+    },
+    "prevention": [
+      "Protect all pruning wounds with sealant or Trichoderma products",
+      "Prune during dry weather to reduce wound infection risk",
+      "Delay pruning until late in dormancy to reduce susceptibility",
+      "Avoid large pruning cuts that create entry points for fungi",
+      "Remove and destroy severely affected vines to reduce inoculum"
+    ],
+    "spread_checklist": [
+      "Mark affected vines with flagging tape for monitoring",
+      "Apply wound protectant to all recent pruning cuts in vineyard",
+      "Do not prune affected vines during rain or wet weather",
+      "Disinfect pruning tools between vines with 70% alcohol",
+      "Consider trunk renewal or vine replacement for severely affected plants",
+      "Remove and burn dead wood from affected vines"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Identify and mark all affected vines",
+          "Remove dead and cankered wood where possible"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Apply fosetyl-aluminium spray to slow disease progression",
+          "Seal all pruning wounds with Trichoderma paste"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor marked vines for symptom progression",
+          "Consider trunk surgery (curettage) on valuable vines"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Plan vine replacement for severely affected plants",
+          "Implement delayed pruning strategy for next season",
+          "Source Trichoderma products for wound protection program"
+        ]
+      }
+    ]
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "is_healthy": false,
+    "description": "Grape leaf blight (Isariopsis leaf spot) is caused by the fungus Pseudocercospora vitis. It produces angular, dark brown spots on leaves, leading to premature defoliation and weakened vines.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Bordeaux Mixture",
+          "instructions": "Prepare 1% Bordeaux mixture (10 g copper sulfate + 10 g lime per litre). Spray all foliage.",
+          "frequency": "Every 10-14 days during rainy season"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Apply 5 ml neem oil per litre of water with surfactant.",
+          "frequency": "Every 7-10 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45", "Indofil M-45"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Carbendazim",
+          "brand_names": ["Bavistin", "Derosal"],
+          "dosage": "1 g per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Start applications preventively before monsoon or rainy season. Avoid application near harvest."
+    },
+    "prevention": [
+      "Remove and destroy fallen infected leaves",
+      "Improve vine canopy management for better air circulation",
+      "Avoid overhead irrigation",
+      "Maintain clean vineyard floor",
+      "Apply preventive fungicide before expected wet weather"
+    ],
+    "spread_checklist": [
+      "Remove severely spotted leaves from affected vines",
+      "Rake and remove fallen leaves from vineyard floor",
+      "Apply fungicide to entire vineyard block",
+      "Open canopy by removing excess shoots for air flow",
+      "Avoid working in vineyard when foliage is wet",
+      "Monitor weekly for spread to adjacent vines"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove heavily infected leaves from vines",
+          "Apply contact fungicide (mancozeb or copper)"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Clean up fallen leaf debris",
+          "Improve canopy airflow through shoot positioning"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue scheduled fungicide applications",
+          "Monitor for defoliation severity"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Thoroughly clean vineyard of debris after harvest",
+          "Plan pre-season preventive spray schedule",
+          "Consider training system that improves air circulation"
+        ]
+      }
+    ]
+  },
+
+  "Grape___healthy": {
+    "is_healthy": true,
+    "description": "Your grape leaf appears healthy with good green color and no signs of disease. The vine looks vigorous.",
+    "care_tips": [
+      "Continue regular canopy management - shoot positioning and leaf pulling",
+      "Water consistently, especially during fruit development",
+      "Monitor for early signs of powdery mildew, downy mildew, and black rot",
+      "Apply preventive fungicide before bloom if your region has disease pressure",
+      "Maintain balanced nutrition - avoid excess nitrogen",
+      "Harvest at optimal sugar levels for best quality"
+    ]
+  },
+
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "is_healthy": false,
+    "description": "Huanglongbing (HLB), also known as citrus greening, is caused by the bacterium Candidatus Liberibacter asiaticus, transmitted by the Asian citrus psyllid. It is the most devastating citrus disease worldwide, causing asymmetric yellow mottling, lopsided fruit, and eventual tree death.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Psyllid Control with Neem Oil",
+          "instructions": "Apply 5 ml neem oil per litre of water targeting the psyllid vector. Spray new flush growth.",
+          "frequency": "Every 7-10 days during flush periods"
+        },
+        {
+          "name": "Nutritional Therapy",
+          "instructions": "Apply micronutrient foliar sprays (zinc, manganese, iron) to keep tree productive as long as possible.",
+          "frequency": "Monthly during growing season"
+        },
+        {
+          "name": "Thermotherapy",
+          "instructions": "Where available, use heat treatment (steam or hot water) on young trees. Research-stage technique.",
+          "frequency": "One-time treatment - consult specialist"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "brand_names": ["Confidor", "Admire Pro"],
+          "dosage": "0.5 ml per litre of water (foliar) or soil drench per label",
+          "frequency": "Soil drench 2-3 times per year; foliar as needed",
+          "method": "Soil drench or foliar spray targeting psyllids"
+        },
+        {
+          "name": "Oxytetracycline (OTC)",
+          "brand_names": ["FireLine", "Mycoshield"],
+          "dosage": "Per label rate - trunk injection",
+          "frequency": "2-3 injections per year (where legally permitted)",
+          "method": "Trunk injection"
+        }
+      ],
+      "warning": "There is NO CURE for HLB. Treatments focus on managing the psyllid vector and prolonging tree productivity. Severely infected trees should be removed to protect healthy ones."
+    },
+    "prevention": [
+      "Control Asian citrus psyllid populations aggressively",
+      "Use certified disease-free nursery stock for new plantings",
+      "Scout for psyllids regularly, especially during new flush growth",
+      "Remove and destroy confirmed HLB-positive trees",
+      "Maintain tree nutrition to extend productive life",
+      "Report suspected HLB to local agricultural authorities"
+    ],
+    "spread_checklist": [
+      "IMMEDIATELY report to local agricultural extension office",
+      "Begin intensive psyllid control on ALL citrus trees in the area",
+      "Do not move citrus plant material from the infected property",
+      "Mark and GPS-tag the infected tree for monitoring",
+      "Test adjacent trees for HLB through laboratory analysis",
+      "Consider removing severely symptomatic trees",
+      "Apply systemic insecticide to control psyllid vector on nearby trees"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Apply systemic insecticide to all citrus trees to suppress psyllids",
+          "Report to local agricultural authority immediately"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Scout all citrus trees within 500 metres for symptoms",
+          "Submit leaf samples for PCR testing to confirm infection",
+          "Begin enhanced nutritional program on affected tree"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Implement area-wide psyllid control program",
+          "Apply foliar micronutrients to maintain tree health",
+          "Assess tree productivity to decide keep vs. remove"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Remove unproductive HLB-positive trees",
+          "Replace with certified disease-free trees from reputable nursery",
+          "Establish ongoing psyllid monitoring and control program"
+        ]
+      }
+    ]
+  },
+
+  "Peach___Bacterial_spot": {
+    "is_healthy": false,
+    "description": "Bacterial spot is caused by Xanthomonas arboricola pv. pruni. It produces small, angular, water-soaked spots on leaves that turn purple-brown, often with a yellow halo. Severely affected leaves may drop prematurely.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Hydroxide Spray",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water. Best applied at leaf fall and again at bud swell.",
+          "frequency": "Dormant-season application; every 10-14 days in season"
+        },
+        {
+          "name": "Acidified Copper Spray",
+          "instructions": "Lower spray solution pH to 5.5-6.0 for better copper efficacy. Add citric acid to copper solution.",
+          "frequency": "During bacterial spot outbreaks"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Oxytetracycline",
+          "brand_names": ["Mycoshield", "FireLine"],
+          "dosage": "Per label rate",
+          "frequency": "Every 7-10 days during outbreaks",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Copper + Mancozeb (Tank mix)",
+          "brand_names": ["Kocide + Dithane"],
+          "dosage": "Copper 1.5 g + Mancozeb 2 g per litre",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Copper can cause phytotoxicity on peach - use lower rates and avoid application during hot weather. No chemical is fully effective against this bacterial disease."
+    },
+    "prevention": [
+      "Plant resistant peach varieties when available",
+      "Avoid overhead irrigation - wet foliage spreads bacteria",
+      "Prune to improve air circulation",
+      "Remove and destroy severely infected branches",
+      "Apply dormant copper spray in fall after leaf drop"
+    ],
+    "spread_checklist": [
+      "Remove severely infected leaves and twigs",
+      "Avoid working with trees when foliage is wet",
+      "Disinfect pruning tools between trees",
+      "Switch to drip irrigation if using overhead sprinklers",
+      "Apply copper spray to limit further bacterial spread",
+      "Monitor adjacent peach trees for symptoms weekly"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove heavily spotted leaves and twig cankers",
+          "Apply copper-based bactericide"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Switch to drip or ground-level irrigation",
+          "Continue copper spray program"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor for new lesion development",
+          "Apply oxytetracycline if copper is insufficient"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Apply fall copper spray after leaf drop",
+          "Consider resistant varieties for new plantings",
+          "Review irrigation system to minimize leaf wetness"
+        ]
+      }
+    ]
+  },
+
+  "Peach___healthy": {
+    "is_healthy": true,
+    "description": "Your peach leaf appears healthy with no signs of bacterial spot or other diseases. The tree looks vigorous.",
+    "care_tips": [
+      "Water deeply once a week during fruit development",
+      "Thin fruit to 15-20 cm apart for larger, better quality peaches",
+      "Prune after harvest to maintain open center form",
+      "Apply dormant copper spray in late fall or early spring",
+      "Monitor for bacterial spot, peach leaf curl, and brown rot",
+      "Fertilize in early spring with balanced fruit tree fertilizer"
+    ]
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "is_healthy": false,
+    "description": "Bacterial spot on bell pepper is caused by Xanthomonas campestris pv. vesicatoria. It produces small, dark, water-soaked spots on leaves that turn brown with yellow halos. It also causes raised, scab-like spots on fruit.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper-Based Spray",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water. Spray thoroughly on all leaf surfaces.",
+          "frequency": "Every 7-10 days during wet weather"
+        },
+        {
+          "name": "Bacillus subtilis Biocontrol",
+          "instructions": "Apply Bacillus subtilis-based product as foliar spray per label rate.",
+          "frequency": "Every 7-14 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Copper Hydroxide + Mancozeb",
+          "brand_names": ["Kocide + Dithane M-45"],
+          "dosage": "Copper 1.5 g + Mancozeb 2 g per litre",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Streptomycin Sulfate",
+          "brand_names": ["Agri-Strep", "Streptocycline"],
+          "dosage": "0.5 g per litre of water",
+          "frequency": "Every 10 days (where legally permitted)",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Copper-tolerant bacterial strains exist. If copper alone is ineffective, switch to or add mancozeb. Do not overuse antibiotics."
+    },
+    "prevention": [
+      "Use certified disease-free seed and transplants",
+      "Rotate peppers with non-solanaceous crops for 2-3 years",
+      "Avoid overhead irrigation",
+      "Space plants properly for air circulation",
+      "Remove and destroy infected plant debris after harvest",
+      "Disinfect stakes, trellises, and tools between seasons"
+    ],
+    "spread_checklist": [
+      "Remove and destroy severely infected plants",
+      "Avoid handling plants when foliage is wet",
+      "Disinfect hands and tools after working with infected plants",
+      "Switch to drip irrigation immediately",
+      "Apply copper + mancozeb spray to remaining plants",
+      "Scout surrounding plants daily for new symptoms",
+      "Do not save seed from infected plants"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove most severely affected plants and destroy them",
+          "Apply copper + mancozeb spray to remaining plants"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Change irrigation to drip or furrow",
+          "Continue spray program every 7 days"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor spray effectiveness - adjust if needed",
+          "Remove any newly symptomatic plants to prevent spread"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Plan 2-3 year rotation away from peppers and tomatoes",
+          "Source disease-free seed for next season",
+          "Disinfect all equipment and greenhouse structures"
+        ]
+      }
+    ]
+  },
+
+  "Pepper,_bell___healthy": {
+    "is_healthy": true,
+    "description": "Your bell pepper leaf is healthy with no signs of bacterial spot or other diseases. The plant appears to be growing well.",
+    "care_tips": [
+      "Water consistently - peppers need 25-50 mm of water per week",
+      "Mulch around plants to maintain even soil moisture and temperature",
+      "Fertilize with calcium-rich fertilizer to prevent blossom end rot",
+      "Stake or cage plants to support heavy fruit load",
+      "Monitor for bacterial spot, aphids, and pepper weevils",
+      "Harvest regularly to encourage continued fruit production"
+    ]
+  },
+
+  "Potato___Early_blight": {
+    "is_healthy": false,
+    "description": "Early blight is caused by the fungus Alternaria solani. It produces dark brown, concentric-ringed ('target-like') lesions on lower leaves first, progressing upward. Severe infections cause premature defoliation and reduced tuber yield.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Fungicide",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water. Spray when first symptoms appear.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus subtilis Spray",
+          "instructions": "Apply Bacillus subtilis-based biocontrol per label rate.",
+          "frequency": "Every 7-14 days preventively"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Mix 5 ml neem oil per litre of water with surfactant.",
+          "frequency": "Every 7-10 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Chlorothalonil",
+          "brand_names": ["Daconil", "Bravo"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45", "Indofil M-45"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Azoxystrobin",
+          "brand_names": ["Amistar", "Quadris"],
+          "dosage": "1 ml per litre of water",
+          "frequency": "Every 14 days (max 2 applications per season)",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Do not apply chlorothalonil within 7 days of harvest. Rotate between contact and systemic fungicides to manage resistance."
+    },
+    "prevention": [
+      "Rotate potatoes with non-solanaceous crops for 2-3 years",
+      "Use certified disease-free seed tubers",
+      "Remove and destroy infected plant debris after harvest",
+      "Maintain adequate plant nutrition - stressed plants are more susceptible",
+      "Hill soil around plants to protect tubers from spore splashing",
+      "Avoid overhead irrigation"
+    ],
+    "spread_checklist": [
+      "Remove lower leaves showing symptoms immediately",
+      "Apply protective fungicide to all potato plants in the field",
+      "Hill soil around plant bases to protect developing tubers",
+      "Switch to drip irrigation to reduce leaf wetness",
+      "Avoid cultivating when foliage is wet",
+      "Scout adjacent fields for early blight symptoms",
+      "Plan to harvest promptly when vines begin dying"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove infected lower leaves to slow spore spread upward",
+          "Apply chlorothalonil or mancozeb fungicide"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Hill soil around plant bases",
+          "Continue fungicide schedule every 7-10 days"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Rotate to systemic fungicide if contact fungicides aren't controlling spread",
+          "Monitor tuber development - consider early harvest if defoliation is severe"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Destroy all crop residue after harvest",
+          "Plan 2-3 year rotation away from potatoes and tomatoes",
+          "Select early-blight-tolerant varieties for next season"
+        ]
+      }
+    ]
+  },
+
+  "Potato___Late_blight": {
+    "is_healthy": false,
+    "description": "Late blight is caused by the oomycete Phytophthora infestans - the same pathogen that caused the Irish Potato Famine. It produces water-soaked, dark green to brown lesions that spread rapidly, often with white mold on leaf undersides in humid conditions. This is an EMERGENCY disease.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper-Based Fungicide",
+          "instructions": "Apply copper hydroxide at 2.5 g per litre. Spray all foliage thoroughly including undersides.",
+          "frequency": "Every 5-7 days during outbreaks"
+        },
+        {
+          "name": "Bordeaux Mixture",
+          "instructions": "Prepare 1% Bordeaux mixture. Apply as a protective spray.",
+          "frequency": "Every 7 days; more frequently during rain"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Metalaxyl + Mancozeb",
+          "brand_names": ["Ridomil Gold MZ", "Apron XL"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb",
+          "brand_names": ["Curzate M8"],
+          "dosage": "3 g per litre of water",
+          "frequency": "Every 7 days during active infection",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Dimethomorph",
+          "brand_names": ["Acrobat", "Forum"],
+          "dosage": "1 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "URGENT - Late blight can destroy an entire crop in 7-10 days under favourable conditions. Act immediately. Do not delay treatment."
+    },
+    "prevention": [
+      "Use certified disease-free seed tubers only",
+      "Destroy volunteer potato plants and cull piles",
+      "Plant resistant varieties where available",
+      "Monitor weather forecasts for late blight risk alerts",
+      "Hill potatoes well to protect tubers from spore wash-down",
+      "Apply preventive fungicide before predicted rain events"
+    ],
+    "spread_checklist": [
+      "IMMEDIATELY apply fungicide - this disease spreads within hours in humid weather",
+      "Remove and destroy the most severely infected plants (burn or bag them)",
+      "Do NOT compost infected material - spores survive",
+      "Alert neighbouring potato and tomato growers",
+      "Check weather forecast - rain and humidity accelerate epidemics",
+      "Consider emergency vine killing (desiccation) if tubers are mature",
+      "Delay harvest for 2-3 weeks after vine death to let tuber skin set"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Apply systemic fungicide (metalaxyl + mancozeb) IMMEDIATELY",
+          "Remove and destroy severely infected plants"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Continue fungicide applications every 5-7 days",
+          "Monitor entire field twice daily for new lesions",
+          "Alert neighbouring growers"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Rotate between different fungicide classes",
+          "Assess crop viability - consider vine killing if tubers are near maturity",
+          "Hill soil to protect tubers from spore contamination"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Destroy ALL crop residue thoroughly",
+          "Do not save tubers from infected field for seed",
+          "Plan strict rotation and use only certified seed next season"
+        ]
+      }
+    ]
+  },
+
+  "Potato___healthy": {
+    "is_healthy": true,
+    "description": "Your potato leaf looks healthy with no signs of early blight, late blight, or other diseases. The plant appears vigorous.",
+    "care_tips": [
+      "Continue regular hilling to protect developing tubers from light and spores",
+      "Maintain consistent watering - potatoes need 25-50 mm per week",
+      "Monitor daily for early signs of blight, especially during humid weather",
+      "Side-dress with potassium-rich fertilizer at tuber initiation",
+      "Scout for Colorado potato beetles and aphids regularly",
+      "Plan harvest timing - wait 2 weeks after vine death for skin set"
+    ]
+  },
+
+  "Raspberry___healthy": {
+    "is_healthy": true,
+    "description": "Your raspberry leaf appears healthy with good color and no disease symptoms. The cane looks productive.",
+    "care_tips": [
+      "Prune out spent floricanes after harvest (summer-bearing types)",
+      "Provide consistent watering - raspberries need regular moisture",
+      "Mulch heavily with straw or wood chips to suppress weeds and retain moisture",
+      "Support canes with a trellis or wire system",
+      "Monitor for signs of cane blight, spur blight, and raspberry rust",
+      "Apply balanced fertilizer in early spring"
+    ]
+  },
+
+  "Soybean___healthy": {
+    "is_healthy": true,
+    "description": "Your soybean leaf appears healthy with normal trifoliate structure and good green color. The plant looks vigorous.",
+    "care_tips": [
+      "Ensure proper inoculant was used at planting for nitrogen fixation",
+      "Scout for sudden death syndrome, soybean rust, and white mold",
+      "Monitor for soybean aphids - treat if populations exceed thresholds",
+      "Maintain weed control through canopy closure",
+      "Avoid compaction during field operations",
+      "Plan crop rotation with corn or wheat for next season"
+    ]
+  },
+
+  "Squash___Powdery_mildew": {
+    "is_healthy": false,
+    "description": "Powdery mildew on squash is caused by the fungi Podosphaera xanthii and Erysiphe cichoracearum. It produces white, powdery fungal growth on upper leaf surfaces, eventually covering entire leaves and causing them to yellow and die.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Potassium Bicarbonate Spray",
+          "instructions": "Dissolve 3 g potassium bicarbonate per litre of water with a few drops of liquid soap. Spray all leaf surfaces.",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Milk Spray",
+          "instructions": "Mix 1 part whole milk to 9 parts water. The proteins have antifungal properties.",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Apply 5 ml neem oil per litre of water with surfactant.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Sulfur Spray",
+          "instructions": "Apply wettable sulfur at 3 g per litre. Do not use above 30°C or within 2 weeks of oil sprays.",
+          "frequency": "Every 10-14 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Myclobutanil",
+          "brand_names": ["Systhane", "Rally"],
+          "dosage": "0.5 ml per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Chlorothalonil",
+          "brand_names": ["Daconil", "Bravo"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Powdery mildew develops resistance quickly. Always rotate between different fungicide classes."
+    },
+    "prevention": [
+      "Plant powdery mildew-resistant squash varieties",
+      "Space plants widely for maximum air circulation",
+      "Avoid late afternoon watering that leaves foliage wet overnight",
+      "Remove oldest, most infected leaves to slow spread",
+      "Apply preventive fungicide starting when plants begin to vine"
+    ],
+    "spread_checklist": [
+      "Remove the most heavily infected leaves from plants",
+      "Apply fungicide to all squash and cucumber family plants in the garden",
+      "Increase plant spacing if possible by removing some leaves",
+      "Water at soil level only - never overhead",
+      "Monitor all cucurbit crops (squash, cucumber, melon) for spread",
+      "Ensure good airflow by managing vine direction"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove the oldest, most infected lower leaves",
+          "Apply potassium bicarbonate or sulfur spray"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Begin weekly spray schedule",
+          "Open up canopy by removing excess leaves for airflow"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue spray program - alternate between products",
+          "Harvest mature fruit promptly to reduce plant stress"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Remove and destroy all infected plant material",
+          "Select resistant varieties for next season",
+          "Plan wider spacing in garden layout"
+        ]
+      }
+    ]
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "is_healthy": false,
+    "description": "Leaf scorch is caused by the fungus Diplocarpon earlianum. It produces small, irregular, dark purple spots on leaves that merge to create a scorched appearance. Severely affected leaves may dry out and die.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Fungicide",
+          "instructions": "Apply copper hydroxide at 1.5 g per litre of water. Use lower rates on strawberries to avoid phytotoxicity.",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Apply 3-5 ml neem oil per litre of water.",
+          "frequency": "Every 7-10 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Myclobutanil",
+          "brand_names": ["Systhane", "Rally"],
+          "dosage": "0.3 ml per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Captan",
+          "brand_names": ["Captaf", "Merpan"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Apply captan before rain events for best protection. Do not apply within 1 day of harvest."
+    },
+    "prevention": [
+      "Use resistant strawberry varieties when possible",
+      "Remove old, infected leaves during renovation after harvest",
+      "Maintain proper plant spacing for air circulation",
+      "Avoid overhead irrigation - use drip",
+      "Renovate strawberry beds annually by mowing and thinning",
+      "Rotate strawberry plantings to new locations every 3-4 years"
+    ],
+    "spread_checklist": [
+      "Remove the most severely scorched leaves from plants",
+      "Apply protective fungicide to entire strawberry patch",
+      "Switch to drip irrigation if using overhead sprinklers",
+      "Improve air circulation by thinning plant crowns",
+      "Do not work in patch when foliage is wet",
+      "Clean up all fallen leaves and debris around plants"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove and discard all severely affected leaves",
+          "Apply fungicide spray to remaining foliage"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Thin plants to improve airflow",
+          "Continue fungicide applications"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor for new infections on recently emerged leaves",
+          "Maintain spray schedule through harvest"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Renovate beds - mow tops, thin rows, remove debris",
+          "Consider replacing planting with resistant varieties",
+          "Plan rotation to new site if infection was severe"
+        ]
+      }
+    ]
+  },
+
+  "Strawberry___healthy": {
+    "is_healthy": true,
+    "description": "Your strawberry leaf looks healthy with no signs of leaf scorch, powdery mildew, or other diseases. The plant appears productive.",
+    "care_tips": [
+      "Maintain consistent watering - strawberries need 25-30 mm per week",
+      "Mulch with straw to keep fruit clean and retain moisture",
+      "Remove runners unless propagating new plants",
+      "Fertilize after harvest during renovation period",
+      "Monitor for leaf scorch, gray mold (botrytis), and spider mites",
+      "Protect fruit from birds with netting"
+    ]
+  },
+
+  "Tomato___Bacterial_spot": {
+    "is_healthy": false,
+    "description": "Bacterial spot on tomato is caused by several Xanthomonas species. It produces small, dark, water-soaked spots on leaves, stems, and fruit. Leaf spots may have yellow halos and can cause severe defoliation.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Hydroxide Spray",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water. Spray all plant surfaces.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus-Based Biocontrol",
+          "instructions": "Apply Bacillus amyloliquefaciens product as foliar spray per label directions.",
+          "frequency": "Every 7-14 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Copper + Mancozeb (Tank mix)",
+          "brand_names": ["Kocide + Dithane M-45"],
+          "dosage": "Copper 1.5 g + Mancozeb 2 g per litre",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Streptomycin Sulfate",
+          "brand_names": ["Streptocycline", "Agri-Strep"],
+          "dosage": "0.5 g per litre of water",
+          "frequency": "Every 10 days (where permitted)",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Copper-tolerant strains are increasingly common. Tank-mixing copper with mancozeb improves efficacy. Never use antibiotics where restricted."
+    },
+    "prevention": [
+      "Use certified disease-free seed and transplants",
+      "Rotate with non-solanaceous crops for 2-3 years",
+      "Avoid overhead irrigation - use drip",
+      "Do not work with plants when foliage is wet",
+      "Remove and destroy crop residue after season ends",
+      "Disinfect stakes, cages, and tools between seasons"
+    ],
+    "spread_checklist": [
+      "Remove and destroy severely infected plants",
+      "Wash hands with soap before touching healthy plants",
+      "Disinfect all tools with 10% bleach solution",
+      "Switch to drip irrigation immediately",
+      "Apply copper + mancozeb to all remaining tomato plants",
+      "Do not save seed from infected plants",
+      "Monitor daily for new spots on adjacent plants"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove severely infected plants and bag them for disposal",
+          "Apply copper + mancozeb spray to remaining plants"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Switch to drip irrigation",
+          "Continue copper spray program"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor for new infections - remove symptomatic tissue",
+          "Maintain strict sanitation practices"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Destroy all crop residue",
+          "Plan 2-3 year rotation to non-solanaceous crops",
+          "Source pathogen-free seed for next season"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Early_blight": {
+    "is_healthy": false,
+    "description": "Early blight is caused by Alternaria solani. It produces dark brown, target-shaped lesions with concentric rings on lower leaves, progressing upward. Can cause significant defoliation and reduced fruit quality.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Fungicide",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Mix 5 ml neem oil per litre of water with surfactant.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus subtilis Biocontrol",
+          "instructions": "Apply per label rate as preventive spray.",
+          "frequency": "Every 7-14 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Chlorothalonil",
+          "brand_names": ["Daconil", "Bravo"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45", "Indofil M-45"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Do not apply within 7 days of harvest. Rotate between fungicide classes to prevent resistance."
+    },
+    "prevention": [
+      "Rotate with non-solanaceous crops for 2-3 years",
+      "Stake and prune tomatoes for better air circulation",
+      "Mulch around plant base to prevent soil splashing",
+      "Remove lower leaves as they yellow",
+      "Water at soil level - avoid wetting foliage",
+      "Remove crop residue completely at end of season"
+    ],
+    "spread_checklist": [
+      "Remove infected lower leaves immediately",
+      "Apply mulch to prevent soil-borne spores from splashing up",
+      "Apply protective fungicide to all tomato plants",
+      "Increase spacing between plants if possible",
+      "Switch to drip irrigation",
+      "Monitor upper canopy for lesion progression weekly"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove all infected lower leaves",
+          "Apply chlorothalonil or mancozeb spray"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Apply mulch around plant bases",
+          "Continue fungicide spray schedule"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor disease progression up the canopy",
+          "Maintain spray schedule - adjust interval based on weather"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Remove and destroy all tomato debris",
+          "Plan crop rotation for next season",
+          "Select early-blight-tolerant varieties"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Late_blight": {
+    "is_healthy": false,
+    "description": "Late blight is caused by Phytophthora infestans. It produces large, water-soaked, dark green to brown lesions that can destroy foliage and fruit rapidly. White mold may be visible on leaf undersides. This is an EMERGENCY disease that can devastate a crop within days.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper-Based Fungicide",
+          "instructions": "Apply copper hydroxide at 2.5 g per litre of water. Spray thoroughly, including leaf undersides.",
+          "frequency": "Every 5-7 days during outbreaks"
+        },
+        {
+          "name": "Bordeaux Mixture",
+          "instructions": "Prepare 1% Bordeaux mixture. Apply before rain events.",
+          "frequency": "Every 7 days during wet weather"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Metalaxyl + Mancozeb",
+          "brand_names": ["Ridomil Gold MZ"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb",
+          "brand_names": ["Curzate M8"],
+          "dosage": "3 g per litre of water",
+          "frequency": "Every 7 days during active outbreaks",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "URGENT - Late blight is extremely aggressive. Apply fungicide IMMEDIATELY upon detection. Remove and destroy infected plants. Delay can mean total crop loss."
+    },
+    "prevention": [
+      "Use certified disease-free transplants",
+      "Do not plant near potatoes (shared pathogen)",
+      "Avoid overhead watering",
+      "Provide good air circulation through staking and pruning",
+      "Monitor late blight forecast services in your region",
+      "Remove volunteer tomato and potato plants"
+    ],
+    "spread_checklist": [
+      "Apply systemic fungicide IMMEDIATELY",
+      "Remove and bag severely infected plants - do not compost",
+      "Alert neighbouring tomato and potato growers",
+      "Check ALL tomato and potato plants in the area",
+      "Monitor weather - cool, wet conditions speed epidemics",
+      "Consider removing all infected plants if crop is small",
+      "Disinfect all tools, stakes, and cages with bleach"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Apply metalaxyl + mancozeb or cymoxanil + mancozeb IMMEDIATELY",
+          "Remove and destroy severely infected plants"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Continue fungicide applications every 5-7 days",
+          "Monitor all plants twice daily for new symptoms"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Alternate fungicide classes to prevent resistance",
+          "Harvest any ripe fruit promptly"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Destroy all plant material thoroughly",
+          "Do not compost any solanaceous debris",
+          "Plan crop rotation and resistant variety selection"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Leaf_Mold": {
+    "is_healthy": false,
+    "description": "Leaf mold is caused by the fungus Passalora fulva (syn. Cladosporium fulvum). It thrives in high humidity environments, especially greenhouses. Yellow patches appear on upper leaf surfaces with olive-green to brown velvety mold on the underside.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Improve Ventilation",
+          "instructions": "This is the most effective organic control. Open greenhouse vents, use fans, and space plants wider.",
+          "frequency": "Continuous management"
+        },
+        {
+          "name": "Potassium Bicarbonate Spray",
+          "instructions": "Dissolve 3 g per litre of water. Spray all leaf surfaces.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Apply 5 ml per litre of water.",
+          "frequency": "Every 7-10 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Chlorothalonil",
+          "brand_names": ["Daconil", "Bravo"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Reducing humidity is more important than fungicide applications. Ensure greenhouse humidity stays below 85%."
+    },
+    "prevention": [
+      "Maintain greenhouse humidity below 85%",
+      "Increase plant spacing for better air circulation",
+      "Remove lower leaves to improve airflow at plant base",
+      "Avoid wetting foliage when watering",
+      "Use resistant tomato varieties",
+      "Ventilate greenhouse during the day and use heating at night to reduce condensation"
+    ],
+    "spread_checklist": [
+      "Improve ventilation immediately - open vents, add fans",
+      "Remove the most heavily affected lower leaves",
+      "Reduce watering frequency and water only at soil level",
+      "Increase plant spacing if feasible",
+      "Apply fungicide to all plants in the greenhouse",
+      "Monitor humidity levels - target below 85%"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Open all greenhouse vents and add circulation fans",
+          "Remove heavily molded lower leaves"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Apply fungicide to all greenhouse tomatoes",
+          "Reduce watering - switch to morning-only drip"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor humidity daily and adjust ventilation",
+          "Continue leaf removal and fungicide schedule"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Install permanent ventilation improvements",
+          "Select resistant varieties for next greenhouse planting",
+          "Clean and disinfect greenhouse between crops"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "is_healthy": false,
+    "description": "Septoria leaf spot is caused by the fungus Septoria lycopersici. It produces numerous small, circular spots with dark borders and gray centers, often with tiny black dots (pycnidia) in the center. It typically starts on lower leaves and progresses upward.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Fungicide",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus subtilis",
+          "instructions": "Apply per label rate as a preventive biological fungicide.",
+          "frequency": "Every 7-14 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Chlorothalonil",
+          "brand_names": ["Daconil", "Bravo"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Mancozeb",
+          "brand_names": ["Dithane M-45", "Indofil M-45"],
+          "dosage": "2.5 g per litre of water",
+          "frequency": "Every 10-14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Start fungicide applications at first sign of disease. Do not wait for widespread symptoms."
+    },
+    "prevention": [
+      "Rotate crops - do not plant tomatoes in same spot for 3 years",
+      "Mulch around plants to prevent soil splash",
+      "Stake and prune for good air circulation",
+      "Water at soil level only",
+      "Remove and destroy infected plant debris after season",
+      "Start with disease-free transplants"
+    ],
+    "spread_checklist": [
+      "Remove infected lower leaves immediately",
+      "Apply mulch around plant base to stop spore splashing",
+      "Spray all tomato plants with fungicide",
+      "Switch to drip irrigation",
+      "Avoid touching plants when wet",
+      "Clean tools after working with infected plants"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove all spotted lower leaves",
+          "Apply chlorothalonil or mancozeb spray"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Mulch around all plant bases",
+          "Continue 7-day spray schedule"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor mid-canopy for upward spread",
+          "Maintain fungicide program through harvest"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Remove and destroy all plant material",
+          "Plan crop rotation for next 2-3 years",
+          "Source resistant or tolerant varieties"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "is_healthy": false,
+    "description": "Two-spotted spider mites (Tetranychus urticae) are tiny arachnid pests, not a disease. They feed on leaf undersides, causing stippling (tiny yellow dots), bronzing, and eventually leaf death. Fine webbing is visible in severe infestations.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Strong Water Spray",
+          "instructions": "Blast leaf undersides with a strong jet of water to dislodge mites. Focus on lower and middle canopy.",
+          "frequency": "Every 2-3 days until population drops"
+        },
+        {
+          "name": "Neem Oil Spray",
+          "instructions": "Apply 5 ml neem oil per litre of water. Spray thoroughly on leaf undersides.",
+          "frequency": "Every 5-7 days"
+        },
+        {
+          "name": "Insecticidal Soap",
+          "instructions": "Apply insecticidal soap spray per label directions. Must contact mites directly to be effective.",
+          "frequency": "Every 5-7 days"
+        },
+        {
+          "name": "Predatory Mites",
+          "instructions": "Release Phytoseiulus persimilis or Neoseiulus californicus predatory mites. They feed on spider mites.",
+          "frequency": "One-time release; re-release if needed"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "brand_names": ["Vertimec", "Agri-Mek"],
+          "dosage": "0.5 ml per litre of water",
+          "frequency": "Maximum 2 applications per season, 7 days apart",
+          "method": "Foliar spray - target leaf undersides"
+        },
+        {
+          "name": "Spiromesifen",
+          "brand_names": ["Oberon", "Forbid"],
+          "dosage": "0.5 ml per litre of water",
+          "frequency": "Maximum 2 applications, 14 days apart",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Avoid broad-spectrum insecticides (pyrethroids) which kill natural predators and can cause spider mite outbreaks to worsen."
+    },
+    "prevention": [
+      "Maintain adequate watering - drought-stressed plants attract mites",
+      "Avoid excessive nitrogen which produces succulent growth mites prefer",
+      "Monitor leaf undersides regularly with a hand lens",
+      "Preserve natural enemies - avoid broad-spectrum insecticides",
+      "Keep weeds controlled as they harbor mite populations",
+      "Increase humidity around plants (mites prefer dry conditions)"
+    ],
+    "spread_checklist": [
+      "Immediately spray affected plants with strong water jet on undersides",
+      "Apply neem oil or insecticidal soap to all plants in the area",
+      "Check ALL nearby plants for fine webbing and stippling",
+      "Increase watering - mites thrive in hot, dry conditions",
+      "Avoid using pyrethroid insecticides that kill mite predators",
+      "Consider releasing predatory mites for biological control",
+      "Isolate severely infested potted plants if in a greenhouse"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Spray leaf undersides with strong water jet",
+          "Apply neem oil or insecticidal soap"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Continue water sprays every 2-3 days",
+          "Release predatory mites if available",
+          "Increase watering to reduce plant stress"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Monitor population with hand lens on leaf undersides",
+          "Apply miticide (abamectin) only if organic methods insufficient"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Remove all crop residue and weeds that harbor mites",
+          "Plan to maintain natural enemy populations next season",
+          "Adjust irrigation to prevent drought stress"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Target_Spot": {
+    "is_healthy": false,
+    "description": "Target spot is caused by the fungus Corynespora cassiicola. It produces small, circular spots with concentric rings (target pattern) on leaves, stems, and fruit. It thrives in warm, humid conditions.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Copper Fungicide",
+          "instructions": "Apply copper hydroxide at 2 g per litre of water.",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Neem Oil",
+          "instructions": "Apply 5 ml per litre of water with surfactant.",
+          "frequency": "Every 7-10 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Chlorothalonil",
+          "brand_names": ["Daconil", "Bravo"],
+          "dosage": "2 g per litre of water",
+          "frequency": "Every 7-10 days",
+          "method": "Foliar spray"
+        },
+        {
+          "name": "Azoxystrobin",
+          "brand_names": ["Amistar", "Quadris"],
+          "dosage": "1 ml per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray"
+        }
+      ],
+      "warning": "Rotate fungicide classes to prevent resistance development."
+    },
+    "prevention": [
+      "Maintain good air circulation through proper staking and pruning",
+      "Avoid overhead irrigation",
+      "Remove lower leaves that contact the soil",
+      "Mulch to prevent soil splashing",
+      "Remove crop residue at end of season",
+      "Rotate with non-solanaceous crops"
+    ],
+    "spread_checklist": [
+      "Remove infected leaves showing target-shaped spots",
+      "Apply fungicide to all tomato plants",
+      "Mulch around plant bases",
+      "Improve air circulation by pruning excess foliage",
+      "Switch to drip irrigation",
+      "Monitor for spread to fruit"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove spotted leaves from lower and middle canopy",
+          "Apply chlorothalonil or copper spray"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Mulch around all plants",
+          "Continue spray schedule"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Alternate fungicide classes",
+          "Remove infected fruit promptly"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Destroy all crop debris",
+          "Plan 2-year rotation away from solanaceous crops"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "is_healthy": false,
+    "description": "Tomato Yellow Leaf Curl Virus (TYLCV) is transmitted by whiteflies (Bemisia tabaci). Infected plants show upward leaf curling, yellowing leaf margins, stunted growth, and drastically reduced fruit set. There is no cure - management focuses on whitefly control.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Yellow Sticky Traps",
+          "instructions": "Place yellow sticky traps around plants to monitor and reduce whitefly populations. Use 1 trap per 5 plants.",
+          "frequency": "Replace every 1-2 weeks"
+        },
+        {
+          "name": "Neem Oil Spray",
+          "instructions": "Apply 5 ml neem oil per litre of water. Targets whiteflies and disrupts their feeding.",
+          "frequency": "Every 5-7 days"
+        },
+        {
+          "name": "Reflective Mulch",
+          "instructions": "Use silver or aluminium reflective mulch around plants. Reflective surfaces repel whiteflies.",
+          "frequency": "Install at planting"
+        },
+        {
+          "name": "Insecticidal Soap",
+          "instructions": "Apply insecticidal soap spray directly on whiteflies. Must contact insects to be effective.",
+          "frequency": "Every 5-7 days"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "brand_names": ["Confidor", "Admire Pro"],
+          "dosage": "0.3 ml per litre of water (foliar) or soil drench per label",
+          "frequency": "Soil drench at transplanting; foliar every 14 days",
+          "method": "Soil drench or foliar spray"
+        },
+        {
+          "name": "Thiamethoxam",
+          "brand_names": ["Actara"],
+          "dosage": "0.25 g per litre of water",
+          "frequency": "Every 14 days",
+          "method": "Foliar spray or soil drench"
+        }
+      ],
+      "warning": "There is NO CURE for the virus. Treatment focuses entirely on controlling the whitefly vector. Remove severely infected plants to prevent spread."
+    },
+    "prevention": [
+      "Use TYLCV-resistant tomato varieties - this is the best defense",
+      "Install fine-mesh insect netting (50-mesh) over plants",
+      "Control whitefly populations before transplanting",
+      "Use reflective mulches to deter whiteflies",
+      "Remove and destroy infected plants immediately upon detection",
+      "Maintain a tomato-free period between seasons to break virus cycle"
+    ],
+    "spread_checklist": [
+      "Remove and destroy all clearly infected plants immediately",
+      "Apply imidacloprid or thiamethoxam to control whiteflies on remaining plants",
+      "Install yellow sticky traps to monitor whitefly population",
+      "Check ALL tomato plants for early symptoms (leaf curling, yellowing)",
+      "Install insect netting if plants are in a greenhouse or tunnel",
+      "Do not handle infected plants then touch healthy ones",
+      "Remove weeds that can serve as whitefly and virus reservoirs"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove and destroy infected plants (burn or bag)",
+          "Apply systemic insecticide for whitefly control"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Install yellow sticky traps for monitoring",
+          "Apply neem oil to remaining plants",
+          "Cover remaining plants with fine mesh netting if possible"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue whitefly control measures",
+          "Monitor all plants for new TYLCV symptoms",
+          "Remove any newly symptomatic plants immediately"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Source TYLCV-resistant varieties for next season",
+          "Plan crop-free period between tomato seasons",
+          "Install permanent insect exclusion netting if feasible"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___Tomato_mosaic_virus": {
+    "is_healthy": false,
+    "description": "Tomato mosaic virus (ToMV) causes mottled light and dark green patterns on leaves, leaf distortion, and sometimes yellowing. It is extremely stable and can spread through contaminated seed, tools, and even by touch.",
+    "organic_treatment": {
+      "methods": [
+        {
+          "name": "Milk Dip for Hands/Tools",
+          "instructions": "Dip hands and tools in a solution of 1 part skim milk to 4 parts water before handling each plant. Milk proteins inactivate the virus.",
+          "frequency": "Before touching each plant"
+        },
+        {
+          "name": "Remove Infected Plants",
+          "instructions": "Carefully remove infected plants without touching healthy ones. Bag and dispose - do not compost.",
+          "frequency": "As soon as symptoms are confirmed"
+        }
+      ]
+    },
+    "chemical_treatment": {
+      "pesticides": [
+        {
+          "name": "No Chemical Cure",
+          "brand_names": ["N/A"],
+          "dosage": "N/A",
+          "frequency": "N/A",
+          "method": "No chemical treatment exists for plant viruses"
+        }
+      ],
+      "warning": "There is NO chemical treatment for tomato mosaic virus. Management is entirely through sanitation, resistant varieties, and prevention. Remove infected plants immediately."
+    },
+    "prevention": [
+      "Use TMV/ToMV-resistant tomato varieties (look for 'T' or 'ToMV' in disease resistance codes)",
+      "Wash hands with soap before and between handling plants",
+      "Disinfect tools with 10% bleach solution or skim milk between plants",
+      "Do not smoke or use tobacco products near tomato plants (TMV survives in tobacco)",
+      "Use certified virus-free seed",
+      "Remove and destroy infected plants immediately"
+    ],
+    "spread_checklist": [
+      "STOP - wash hands immediately with soap before touching any other plants",
+      "Remove and bag infected plants without brushing against healthy ones",
+      "Disinfect ALL tools with 10% bleach or skim milk solution",
+      "Change clothes if you handled infected plants extensively",
+      "Do not compost infected plant material",
+      "Monitor remaining plants daily for mosaic pattern symptoms",
+      "Alert anyone working in the garden about the infection"
+    ],
+    "ipm_steps": [
+      {
+        "phase": "Immediate",
+        "timeframe": "Day 1-2",
+        "actions": [
+          "Remove and destroy all confirmed infected plants",
+          "Wash hands and disinfect all tools immediately"
+        ]
+      },
+      {
+        "phase": "Short Term",
+        "timeframe": "Day 3-7",
+        "actions": [
+          "Monitor all remaining plants for mosaic symptoms",
+          "Implement strict sanitation - milk dip before touching each plant",
+          "No smoking near plants (TMV in tobacco)"
+        ]
+      },
+      {
+        "phase": "Medium Term",
+        "timeframe": "Week 2-4",
+        "actions": [
+          "Continue monitoring for 3-4 week incubation period",
+          "Remove any newly symptomatic plants immediately"
+        ]
+      },
+      {
+        "phase": "Long Term",
+        "timeframe": "Season End",
+        "actions": [
+          "Source TMV/ToMV-resistant varieties for next season",
+          "Use only certified virus-free seed",
+          "Clean and disinfect all greenhouse structures, stakes, and tools"
+        ]
+      }
+    ]
+  },
+
+  "Tomato___healthy": {
+    "is_healthy": true,
+    "description": "Your tomato leaf looks healthy with no signs of disease, pest damage, or nutrient deficiency. The plant appears vigorous and productive.",
+    "care_tips": [
+      "Continue regular watering - deep watering 2-3 times per week is better than daily shallow watering",
+      "Stake or cage plants to keep fruit off the ground",
+      "Remove suckers from indeterminate varieties for better fruit size",
+      "Mulch around base to maintain soil moisture and prevent disease splash",
+      "Monitor regularly for early blight, late blight, and septoria leaf spot",
+      "Fertilize every 2-3 weeks during fruiting with tomato-specific fertilizer",
+      "Harvest fruit promptly when ripe to encourage continued production"
+    ]
+  }
+}
